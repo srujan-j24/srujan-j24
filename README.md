@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![An image of @srujanj24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/srujanj24)](https://holopin.io/@srujanj24)
 
 <!--
 **srujan-j24/srujan-j24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
