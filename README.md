@@ -1,8 +1,9 @@
 <h1 align="left">Welcome to my Profile 🫡?</h1>
 
 ###
+## My name is Srujan J.
+### I'm working on my Full Stack web dev skills, <br>  co-ordinates are India
 
-<p align="left">My name is Srujan J.,  <br>I'm working on my Full Stack web dev skills, <br> co-ordinates are India</p>
 
 ###
 
@@ -10,7 +11,7 @@
 
 ###
 
-<p align="left">📚 I'm pursuing my BE in CSE<br>🎯 Goals is to create something use to society<br>🎲 I use tabs over space</p>
+### 📚 I'm pursuing my BE in CSE <br> 🎯 Goals is to create something use to society <br> 🎲 I use tabs over space
 
 ###
 
