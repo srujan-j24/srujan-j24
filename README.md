@@ -1,12 +1,12 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Welcome to my Profile 🫡?</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Srujan J.,  <br>I'm working on my Full Stack web dev skills, <br>from India</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left"></h2>
 
 ###
 
