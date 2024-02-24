@@ -11,7 +11,7 @@
 
 ###
 
-### 📚 I'm pursuing my BE in CSE <br> 🎯 Goals is to create something use to society <br> 🎲 I use tabs over space
+### 📚 I'm pursuing my BE in CSE <br> 🎯 Goals is to create something use to society <br> 🎲 I use tabs over spaces
 
 ###
 
