@@ -2,7 +2,7 @@
 
 ###
 ## My name is Srujan J.
-###⚒️ I'm working on my Full Stack web dev skills, <br>📌 co-ordinates are India <br> 📚 I'm pursuing my BE in CSE <br> 🎯 Goals is to create something use to society <br> 🎲 I use tabs over spaces
+### ⚒️ I'm working on my Full Stack web dev skills, <br>📌 co-ordinates are India <br> 📚 I'm pursuing my BE in CSE <br> 🎯 Goals is to create something use to society <br> 🎲 I use tabs over spaces
 
 ###
 
