@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm pursuing my BE in CSE<br>🎯 Goals: To create somehing use to society<br>🎲 Fun fact: I use tabs</p>
+<p align="left">📚 I'm pursuing my BE in CSE<br>🎯 Goals is to create something use to society<br>🎲 I use tabs over space</p>
 
 ###
 
@@ -40,6 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4" height="40" alt="rust logo"  />
 </div>
 
 ###
