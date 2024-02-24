@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">📚 I'm pursuing my BE in CSE<br>🎯 Goals: To create somehing use to society<br>🎲 Fun fact: I use tabs</p>
 
 ###
 
